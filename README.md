@@ -12,4 +12,4 @@ Assignment for MarianaTek
 
 3. Enter command: *python manage.py runserver*
   
-4. After starting the server, go to *127.0.0.1:8000/Fizz* in your browser.
+4. After starting the server, go to *127.0.0.1:8000/fizzbuzz* in your browser.
